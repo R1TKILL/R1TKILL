@@ -17,4 +17,4 @@
 <br>
 
 ![R1TKILL GitHub stats](https://github-readme-stats.vercel.app/api?username=R1TKILL&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1TKILL&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1TKILL&layout=donut&theme=dracula)](https://github.com/R1TKILL/github-readme-stats)
