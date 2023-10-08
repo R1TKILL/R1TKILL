@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ![Profile views](https://gpvc.arturio.dev/R1TKILL)
+
 
 <!--
 **R1TKILL/R1TKILL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
