@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=R1TKILL&amp;color=ff04c0)
+<img align="right" src="https://komarev.com/ghpvc/?username=R1TKILL&amp;color=ff04c0"><br>
 
 ### Bem Vindo! Eu sou o Antonio Junio 👋
 
