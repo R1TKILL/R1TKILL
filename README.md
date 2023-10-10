@@ -1,7 +1,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=R1TKILL.R1TKILL"><br>
 
-
-### Bem Vindo! Eu sou o Antonio Junio 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+Seja+bem+vindo!+👋;+Me+chamo+Antonio+Junior!;&center=true&size=30">
+  </a>
+</h1>
 
 <div  align="center">
     <a href="https://github.com/R1TKILL">
@@ -67,4 +70,11 @@
     <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/R1TKILL/R1TKILL/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/R1TKILL/R1TKILL/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
