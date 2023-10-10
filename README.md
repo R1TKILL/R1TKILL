@@ -2,9 +2,11 @@
 
 ### Bem Vindo! Eu sou o Antonio Junio 👋
 
-<a href="https://github.com/R1TKILL">
-    <img src="https://github.com/andreinaoliveira/AndreinaOliveira/raw/master/Welcome.png"/>
-</a>
+<div  align="center">
+    <a href="https://github.com/R1TKILL">
+        <img src="https://github.com/andreinaoliveira/AndreinaOliveira/raw/master/Welcome.png"/>
+    </a>
+</div>
 
 <br>
 <br>
@@ -16,7 +18,7 @@
 
 <br>
 
-<div>
+<div align="center">
     <a href="https://github.com/R1TKILL">
     <img height="180em" alt="R1TKILL GitHub stats" src="https://github-readme-stats.vercel.app/api?username=R1TKILL&show_icons=true&theme=dracula"/>
     <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1TKILL&layout=compact&theme=dracula"/>
