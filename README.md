@@ -1,4 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=R1TKILL&amp;color=ff04c0"><br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=R1TKILL.R1TKILL"><br>
+
 
 ### Bem Vindo! Eu sou o Antonio Junio 👋
 
