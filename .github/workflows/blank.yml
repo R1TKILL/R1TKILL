@@ -39,7 +39,7 @@ jobs:
 
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: jamesgeorge007/github-activity-readme@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
